@@ -9,21 +9,18 @@
 .blue, .red, .yellow {
   width: 100px;
   height: 100px;
+  position: absolute;
 }
 .blue {
   background: blue;
-  position: absolute;
 }
 .red {
   background: red;
   left: 100px;
   top: 100px;
-  position: absolute;
-
 }
 .yellow {
   background:yellow;
   left: 200px;
   top: 200px;
-  position: absolute;
 }
